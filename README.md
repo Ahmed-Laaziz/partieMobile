@@ -137,4 +137,4 @@ starting from the center point i.e. the coordinates of the beacon. -->
 Voici la conception UML de notre application
 *4.1* Diagramme de cas d'utilisation  | *4.2* Diagramme de classe 
 :------------:|:---------------:|:----------------:
-![Imgur](https://imgur.com/lPdVXvE)  |  ![Imgur](https://imgur.com/oa6v6jw) 
+![Imgur](https://imgur.com/lPdVXvE.jpg)  |  ![Imgur](https://imgur.com/oa6v6jw.jpg) 
