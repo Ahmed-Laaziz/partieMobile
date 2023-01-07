@@ -1,6 +1,6 @@
 ## Ensaj-Monument
 
-Ensaj-Monument est une application itinérante qui permet aux utilisateurs de rechercher dans leur voisinage afin de découvrir les points de repère les plus proches et les plus populaires et de capturer ces découvertes en prenant une photo des points de repère trouvés. Ces images seront à leur tour traitées à l'aide d'un algorithme de détection de points de repère pour vérifier l'authenticité des images et enregistrer les découvertes de l'utilisateur dans son historique de voyage qui sera disponible pour examen à tout moment.
+Ensaj-Monument est une application itinérante qui permet aux utilisateurs de rechercher dans leur voisinage afin de découvrir les points de repère les plus proches et les plus populaires.
 
 ### Principaux concepts théoriques :
 -  Architecture propre
@@ -13,7 +13,7 @@ Ensaj-Monument est une application itinérante qui permet aux utilisateurs de re
 #### Aperçu
 
 Ensaj-Monument est une application touristique implémentée pour Android créée dans le but de démontrer la manière dont les différents concepts architecturaux et
-modèles modèles de conception d'application peuvent être appliqués dans une pratique. L'objectif de cette documentation est d'entrer dans les détails du processus de développement et de l'architecture de l'application, en montrant comment les concepts théoriques ci-dessus ont été utilisés comme principes directeurs de l'application.
+modèles de conception d'application peuvent être appliqués dans une pratique. L'objectif de cette documentation est d'entrer dans les détails du processus de développement et de l'architecture de l'application, en montrant comment les concepts théoriques ci-dessus ont été utilisés comme principes directeurs de l'application.
 #### But
 
 Le but de cette application est de fournir aux utilisateurs un moyen de découvrir les
@@ -132,13 +132,9 @@ starting from the center point i.e. the coordinates of the beacon. -->
     données pertinentes au contexte de la faute et uniquement de son propre point de vue.
     
     
-#### Use cases
+#### Conception UML
 
-Les cas d'utilisation de l'application peuvent être mieux présentés en les regroupant en trois
-catégories distinctes en fonction des objets impactés par ces interactions et des zones de
-l'application dans laquelle ils se trouvent. Ainsi, ces catégories comprennent :
-
-- Cas d'utilisation liés à l'authentification et à l'enregistrement des utilisateurs, comme illustré à la figure
-    4.1.
-- Cas d'utilisation décrivant la gestion des sessions de l'application (Figure 4.2).
-- Cas d'utilisation décrivant les interactions possibles avec des repères de session individuels, illustrés à la figure 4.3.
+Voici la conception UML de notre application
+*4.1* Diagramme de cas d'utilisation  | *4.2* Diagramme de classe 
+:------------:|:---------------:|:----------------:
+![Imgur](https://imgur.com/lPdVXvE)  |  ![Imgur](https://imgur.com/oa6v6jw) 
