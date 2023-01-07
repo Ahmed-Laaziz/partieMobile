@@ -81,7 +81,7 @@ Voici la conception UML de notre application
 
 Voici l'architecture générale de notre application
 *5.1* Architecture générale
-:------------:|:---------------:|:----------------:
+:------------:
 ![Imgur](https://imgur.com/KPrwjjI.jpg) 
 #### Technologies et bibliothèques
 
