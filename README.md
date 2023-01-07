@@ -2,6 +2,10 @@
 
 Ensaj-Monument est une application itinérante qui permet aux utilisateurs de rechercher dans leur voisinage afin de découvrir les points de repère les plus proches et les plus populaires.
 
+#### Partie Web
+
+Dépot : https://github.com/Ahmed-Laaziz/frontend
+
 ### Principaux concepts théoriques :
 -  Architecture propre
 -  Programmation réactive
